@@ -13,3 +13,5 @@ My main expertise is in Python but projects in Golang are currently in progress.
 
 
 On the IT infrastructure side of things I like to use [Ansible](https://www.ansible.com/) to implement infrastructure-as-code.
+
+Digging deep into network traffic is also a joy for me.
