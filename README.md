@@ -17,3 +17,26 @@ On the IT infrastructure side of things I like to use [Ansible](https://www.ansi
 Digging deep into network traffic is also a joy for me.
 
 GPG: [https://files.oxl.at/gpg/superstes.gpg](https://files.oxl.at/gpg/superstes.gpg)
+
+# Skills
+
+## Technical
+
+[![Technical Skills](https://skillicons.dev/icons?i=ansible,linux,debian,docker)](https://skillicons.dev)
+
+### Services
+
+[![Service Skills](https://skillicons.dev/icons?i=git,sqlite,mysql,prometheus,grafana,nginx,rabbitmq,redis)](https://skillicons.dev)
+
+### Scripting
+
+[![Scripting Skills](https://skillicons.dev/icons?i=bash,regex,powershell,lua)](https://skillicons.dev)
+
+## Programming
+
+[![Programming Skills](https://skillicons.dev/icons?i=go,py,js,html,css,lua)](https://skillicons.dev)
+
+
+### Frameworks
+
+[![Programming Frameworks Skills](https://skillicons.dev/icons?i=django,flask,threejs,svelte)](https://skillicons.dev)
