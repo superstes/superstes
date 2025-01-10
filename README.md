@@ -34,7 +34,7 @@ GPG: [https://files.oxl.at/gpg/superstes.gpg](https://files.oxl.at/gpg/superstes
 
 ## Programming
 
-[![Programming Skills](https://skillicons.dev/icons?i=go,py,js,html,css,lua)](https://skillicons.dev)
+[![Programming Skills](https://skillicons.dev/icons?i=go,py,js,html,css)](https://skillicons.dev)
 
 
 ### Frameworks
