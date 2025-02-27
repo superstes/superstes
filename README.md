@@ -22,21 +22,21 @@ GPG: [https://files.oxl.at/gpg/superstes.gpg](https://files.oxl.at/gpg/superstes
 
 ## Technical
 
-[![Technical Skills](https://skillicons.dev/icons?i=ansible,linux,debian,docker)](https://skillicons.dev)
+[![Technical Skills](https://skillicons.dev/icons?i=ansible,linux,debian,docker)](#)
 
 ### Services
 
-[![Service Skills](https://skillicons.dev/icons?i=git,sqlite,mysql,prometheus,grafana,nginx,rabbitmq,redis)](https://skillicons.dev)
+[![Service Skills](https://skillicons.dev/icons?i=git,sqlite,mysql,prometheus,grafana,nginx,rabbitmq,redis)](#)
 
 ### Scripting
 
-[![Scripting Skills](https://skillicons.dev/icons?i=bash,regex,powershell,lua)](https://skillicons.dev)
+[![Scripting Skills](https://skillicons.dev/icons?i=bash,regex,powershell,lua)](#)
 
 ## Programming
 
-[![Programming Skills](https://skillicons.dev/icons?i=go,py,js,html,css)](https://skillicons.dev)
+[![Programming Skills](https://skillicons.dev/icons?i=go,py,js,html,css)](#)
 
 
 ### Frameworks
 
-[![Programming Frameworks Skills](https://skillicons.dev/icons?i=django,flask,threejs,svelte)](https://skillicons.dev)
+[![Programming Frameworks Skills](https://skillicons.dev/icons?i=django,flask,threejs,svelte)](#)
