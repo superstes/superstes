@@ -1,6 +1,6 @@
 # Superstes
 
-=> [Book an appointment](https://calendar.app.google/YGwfKpmZCfPorFFK6)
+=> [Connect with me](https://calendar.app.google/YGwfKpmZCfPorFFK6)
 
 I'm currently working as IT-Systems Engineer and started to fall in love with coding.
 
