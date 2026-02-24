@@ -1,6 +1,4 @@
-# Superstes
-
-=> [Connect with me](https://calendar.app.google/YGwfKpmZCfPorFFK6)
+# Rath Pascal
 
 I'm currently working as IT-Systems Engineer and started to fall in love with coding.
 
