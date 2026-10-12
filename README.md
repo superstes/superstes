@@ -12,8 +12,6 @@ On the IT infrastructure side of things I like to use [Ansible](https://www.ansi
 
 Digging deep into network traffic is also a joy for me.
 
-GPG: [https://files.oxl.at/gpg/superstes.gpg](https://files.oxl.at/gpg/superstes.gpg)
-
 # Skills
 
 ## Technical
